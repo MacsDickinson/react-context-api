@@ -1,0 +1,74 @@
+[{
+        "speaker": "Steve Millar",
+        "title": "AI, Data Science & Machine Learning",
+        "description": "A fleeting food-fuelled foray into the fields of artificial intelligence, data science and machine learning. I’ll talk about how these three things are related, clear up some common confusions, show how machine learning works, and then give some real world examples of where it’s been applied. Presentation will be pitched at a very soothing level and will feature pictures and (mostly) short words.",
+        "speakerBio": "Steve is a PhD, who draws on perspectives as a scientist, an engineer and a researcher within many and varied fields, including machine learning, linear regression, logistic regression, SVMs, neural networks, PCA, nearest neighbour, K-means, NLP, trees/forests. Steve is into behavioural economics. Anything that combines networks/graphs with machine learning. And is particularly interested in the intersection of mechanism design and crypto economic protocols as a way of incentivising behaviour in networks.",
+        "id": 1,
+        "twitter": "",
+        "avatar": ""
+
+    },
+    {
+        "speaker": "Sophia Chambers",
+        "title": "IBM WATSON",
+        "description": "IBM Watson is an amazing collection of API’s that provide you with the capabilities to do amazing things. This tech is not only pretty awesome, but it’s super intelligent, with little setup required! In this talk, I hope to provide you with the basic tools to create your own incredible applications. In this talk in particular, I will be introducing the Conversation API and how we can create our very own Chat bot’s.",
+        "speakerBio": "Sophia is a Software Engineer based in the Sky Betting & Gaming core payments squad, Sheffield. Day to day tech includes the likes of Docker, Node, React, PHP, Git, Javascript and while working at Sky Bet, Sophia achieved a 2.1 Engineering Degree in Software Engineering. Outside work, Sophia has a husband, three lovely children and a cat to take care of – the husband being the hardest. Another incredible hobby, picked up since becoming a software engineer, is helping family members repair phones or their televisions – apparently as that’s Sophia's job!",
+        "id": 2,
+        "twitter": "sophiacchambers",
+        "avatar": "https://pbs.twimg.com/profile_images/809098805991903232/v_sULXtY_400x400.jpg"
+    },
+    {
+        "speaker": "Ian Thomas",
+        "title": "From Engineer to Where?",
+        "description": "Highly skilled software engineers are vital for any digital business, but often it’s hard to see a career path that doesn’t involve moving into people management. This lightning talk looks at how technical careers can be shaped to fit the individuals and the business.",
+        "speakerBio": "Ian is a Software Architect - Wannabe Haskeller and all round functional advocate; passionate about how software and user experience can work together to make great things.",
+        "id": 3,
+        "twitter": "anatomic",
+        "avatar": "https://pbs.twimg.com/profile_images/961330948490059776/rsb9Q4wq_400x400.jpg"
+    },
+    {
+        "speaker": "Andy Burgin",
+        "title": "Kubernetes",
+        "description": "Whirlwind introduction to learning Kubernetes, from hacking on a bunch of Raspberry Pis through to running at scale in production.",
+        "speakerBio": "Andy is a Platform Engineer - Kubernetes/Hadoop fettler, and all round Devops nuisance.",
+        "id": 4,
+        "twitter": "andyburgin",
+        "avatar": "https://pbs.twimg.com/profile_images/122663653/avatar_400x400.jpg"
+    },
+    {
+        "speaker": "Andy Bowes",
+        "title": "Condensed Kotlin",
+        "description": "Introduction to the Kotlin language and it's role in the future of SBG",
+        "speakerBio": "Andy is a Senior Kotlin Engineer - SBG Nexus Team. Kotlin evangelist for more than 2 years. Andy joined SBG in June 2018 for the opportunity to get paid to write Kotlin code.",
+        "id": 5,
+        "twitter": "",
+        "avatar": ""
+    },
+    {
+        "speaker": "Danny Kay",
+        "title": "Apache Kafka",
+        "description": "An overview of Apache Kafka and the part it plays at SBG",
+        "speakerBio": "Danny is a Software Engineer in the Customer Integrations team at Sky Betting and Gaming. He has an active interest in Apache Kafka, Streaming Data Pipelines and Real-time ETL. He loves writing technical articles and talking at meet ups.",
+        "id": 6,
+        "twitter": "danieljameskay",
+        "avatar": "https://pbs.twimg.com/profile_images/1018539681015791616/kiuQr47Z_400x400.jpg"
+    },
+    {
+        "speaker": "Paul-Cosmin Constandachi",
+        "title": "AWS / Serverless",
+        "description": "Designing with a 'customer first' mindset - how we use AWS / Serverless and the part it plays at SBG, future applications.",
+        "speakerBio": "Cosmin is an AWS enthusiast and Solution Architect in Bet Customer, working with My Bets and Promos Squads.",
+        "id": 7,
+        "twitter": "",
+        "avatar": ""
+    },
+    {
+        "speaker": "Macs Dickinson",
+        "title": "React Context API",
+        "description": "The react team added a new officially supported context API in the 16.3 release which has generated a lot of buzz. In this lightning talk, Macs will explain what it is, how to use it and will discuss if we should still be using Redux or not.",
+        "speakerBio": "Macs is Lead Software Engineer for the Customer Integration team, Co-Founder of Yorkshire Digital & Organiser of Leeds Hack. Unnecessarily happy. Talks a lot about engineering and mental health.",
+        "id": 8,
+        "twitter": "MacsDickinson",
+        "avatar": "https://pbs.twimg.com/profile_images/989845982690062336/UyJMcJYu_400x400.jpg"
+    }
+]

@@ -1,0 +1,53 @@
+@font-face {
+  font-family: SkyFont;
+  src: url(https://st1.skybet.com/static/fonts/skyreg-webfont.woff);
+}
+
+.App {
+  font-family: SkyFont;
+  text-align: center;
+}
+
+.App-logo {
+  height: 80px;
+}
+
+.App-header {
+  height: 150px;
+  padding: 20px;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.is-break {
+  padding: 25px;
+  margin: 25px;
+  text-align: center;
+  font-size: 1.5em;
+  border-top: 4px dotted #ddd;
+  border-bottom: 4px dotted #ddd;
+}
+  .is-break p {
+    width: 100%;
+  }
+
+.flexbox {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  overflow: hidden;
+}
+.flexbox .col {
+  flex: 1;
+}

@@ -1,0 +1,37 @@
+[
+    {
+        "author": "Billy Bob",
+        "content": "What is this?",
+        "avatar": "pics/IMG_0001.jpg",
+        "id": 1,
+        "replyToArticle": 1
+    },
+    {
+        "author": "Billy Bob",
+        "content": "What is this?",
+        "avatar": "pics/IMG_0011.jpg",
+        "id": 2,
+        "replyToComment": 1
+    },
+    {
+        "author": "Billy Bob",
+        "content": "What is this?",
+        "avatar": "pics/IMG_0011.jpg",
+        "id": 3,
+        "replyToComment": 2
+    },
+    {
+        "author": "Billy Bob",
+        "content": "What is this?",
+        "avatar": "pics/IMG_0011.jpg",
+        "id": 4,
+        "replyToComment": 2
+    },
+    {
+        "author": "Billy Bob",
+        "content": "What is this?",
+        "avatar": "pics/IMG_0001.jpg",
+        "id": 5,
+        "replyToArticle": 2
+    }
+]
